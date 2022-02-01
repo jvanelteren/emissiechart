@@ -89,20 +89,20 @@ Cargill B.V. Sas van Gent;Cargill;Cargill
 Cargill Bergen op Zoom BKG 1;Cargill;Cargill
 Cargill Bergen op Zoom BKG 2;Cargill;Cargill
 Century Aluminum Vlissingen BV;Century Aluminum Vlissingen BV;Century Aluminum
-Chemelot BKG 01;Chemelot;SABIC
-Chemelot BKG 02;Chemelot;SABIC
-Chemelot BKG 03;Chemelot;SABIC
-Chemelot BKG 04;Chemelot;SABIC
-Chemelot BKG 05;Chemelot;SABIC
-Chemelot BKG 06;Chemelot;SABIC
-Chemelot BKG 07;Chemelot;SABIC
-Chemelot BKG 08;Chemelot;SABIC
-Chemelot BKG 09;Chemelot;SABIC
-Chemelot BKG 10;Chemelot;SABIC
-Chemelot BKG 11;Chemelot;SABIC
-Chemelot BKG 12;Chemelot;SABIC
-Chemelot BKG 13;Chemelot;SABIC
-Chemelot BKG 14;Chemelot;SABIC
+Chemelot BKG 01;Chemelot;Chemelot
+Chemelot BKG 02;Chemelot;Chemelot
+Chemelot BKG 03;Chemelot;Chemelot
+Chemelot BKG 04;Chemelot;Chemelot
+Chemelot BKG 05;Chemelot;Chemelot
+Chemelot BKG 06;Chemelot;Chemelot
+Chemelot BKG 07;Chemelot;Chemelot
+Chemelot BKG 08;Chemelot;Chemelot
+Chemelot BKG 09;Chemelot;Chemelot
+Chemelot BKG 10;Chemelot;Chemelot
+Chemelot BKG 11;Chemelot;Chemelot
+Chemelot BKG 12;Chemelot;Chemelot
+Chemelot BKG 13;Chemelot;Chemelot
+Chemelot BKG 14;Chemelot;Chemelot
 Chemours Netherlands B.V.;Chemours Netherlands B.V.;Chemours
 Climax Molybdenum B.V.;Climax Molybdenum B.V.;Climax Molybdenum
 Co?. Grasdrogerij Ruinerwold en omstreken BA;Co?. Grasdrogerij Ruinerwold en omstreken BA;Co?. Grasdrogerij Ruinerwold en omstreken BA
@@ -265,7 +265,7 @@ Kwekerij Mooijman;Kwekerij;Kwekerij
 Kwekerij Overgaag;Kwekerij;Kwekerij
 KWS Infra B.V. Asfaltcentrale Eindhoven;Asfalt Centrales;Asfalt Centrales
 KWS Infra B.V. Asfaltcentrale Roosendaal;Asfalt Centrales;Asfalt Centrales
-"Lamb Weston Meijer V.O.F., vestiging Bergen op Zoom";"Lamb Weston Meijer V.O.F., vestiging Bergen op Zoom";"Lamb Weston Meijer V.O.F., vestiging Bergen op Zoom"
+"Lamb Weston Meijer V.O.F., vestiging Bergen op Zoom";"Lamb Weston Meijer V.O.F., vestiging Bergen op Zoom";Lamb Weston Meijer
 Leids Universitair Medisch Centrum;Leids Universitair Medisch Centrum;Leids Universitair Medisch Centrum
 Lyondell Chemie Nederland B.V. - Botlek locatie;Lyondell Chemie Nederland B.V.;LyondellBasell
 Lyondell Chemie Nederland B.V. - Europoort locatie;Lyondell Chemie Nederland B.V.;LyondellBasell
@@ -469,15 +469,15 @@ Wijnen Facilities B.V.;Wijnen Facilities B.V.;Wijnen Facilities
 Wintershall Noordzee B.V. F16-A;Wintershall Noordzee B.V.;Wintershall Noordzee
 Wintershall Noordzee B.V. L8-P4;Wintershall Noordzee B.V.;Wintershall Noordzee
 Wintershall Noordzee B.V. P6-A;Wintershall Noordzee B.V.;Wintershall Noordzee
-WKC Bergen op Zoom;WKC;WKC
-WKC Eindhoven;WKC;WKC
-WKC Enschede;WKC;WKC
-WKC Erica;WKC;WKC
-WKC Heineken;WKC;WKC
-WKC Helmond 1 & 2;WKC;WKC
-WKC Klazienaveen;WKC;WKC
-WKC Kruiningen;WKC;WKC
-WKC Moerdijk;WKC;WKC
+WKC Bergen op Zoom;WKC Bergen op Zoom;RWE
+WKC Eindhoven;WKC Eindhoven;Ennatuurlijk
+WKC Enschede;WKC Enschede;Ennatuurlijk
+WKC Erica;WKC Erica;Essent
+WKC Heineken;WKC Heineken;Heineken Nederland
+WKC Helmond 1 & 2;WKC Helmond 1 & 2;Ennatuurlijk
+WKC Klazienaveen;WKC Klazienaveen;Essent
+WKC Kruiningen;WKC Kruiningen;Lamb Weston Meijer
+WKC Moerdijk;WKC Moerdijk;RWE
 Wormdal Vastgoed BV;Wormdal Vastgoed BV;Wormdal Vastgoed
 Yara Sluiskil B.V. BKG 1;Yara Sluiskil B.V.;Yara
 Yara Sluiskil B.V. BKG 2;Yara Sluiskil B.V.;Yara
