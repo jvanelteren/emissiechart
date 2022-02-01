@@ -7,6 +7,11 @@ Visualisatie van CO2 emissies die onder EU-ETF vallen
 * colors.csv -> bevat de mapping tussen bedrijf en type bedrijf
 * Emissiecijfers+2013-2020.ods -> source data
 
+### Beperkingen
+* Een installatie heeft de hele periode dezelfde eigenaar
+* Sommige installaties zijn erg lastig te splitsen. Daarom heb ik Chemelot niet naar een bedrijf gesplitst, (SABIC/RWE/anderen)
+* Installaties worden altijd in zijn geheel aan een type toegewezen, dus bv of geheel gas, of geheel kolen
+
 ### Requirements and thanks to these packages
 * https://pypi.org/project/bar-chart-race/
 install with `pip install git+https://github.com/dexplo/bar_chart_race`
